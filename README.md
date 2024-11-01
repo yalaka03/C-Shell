@@ -1,4 +1,4 @@
-##C-Shell
+## C-Shell
 Simulates what a shell does
 ./a.out to run it(bash and gcc)
 
