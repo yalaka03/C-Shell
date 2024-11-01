@@ -1,3 +1,8 @@
+##C-Shell
+Simulates what a shell does
+./a.out to run it(bash and gcc)
+
+
 ## The following is a guide to what files implement what part:
 
 - The name usually implies the command that the file implements.
